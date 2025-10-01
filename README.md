@@ -89,7 +89,7 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| [**Academia**](https://www.innovorix.com/) | Management system for educational institutions | React, Next.Js, Supabase |
+| [**Academia**](https://institute.innovorix.com/) | Management system for educational institutions | React, Next.Js, Supabase |
 | [**Orange Pi Automations**](https://github.com/mhamidjamil/orangepi) | Home automation using Orange Pi | Python, IoT, MQTT |
 | [**Smart LED Control**](https://github.com/mhamidjamil/studio) | IoT-based LED lighting control system | ESP32, Arduino, WebSocket |
 | [**Smart Sim Manager**](https://github.com/mhamidjamil/TTGO_TCall) | SIM card management device | ESP32, GSM, PlatformIO |
