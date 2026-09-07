@@ -1,8 +1,7 @@
 name: Contribution snake
 
 on:
-  schedule:
-    - cron: '30 1 * * *'
+  # Retained for manual use; this decoration is no longer on the profile.
   workflow_dispatch:
 
 permissions:

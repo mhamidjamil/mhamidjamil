@@ -5,8 +5,7 @@ name: Profile metrics
 # add a classic PAT as METRICS_TOKEN and swap it in to count private repos too.
 
 on:
-  schedule:
-    - cron: '0 2 * * *'
+  # Retained for manual use. The profile no longer embeds these cards.
   workflow_dispatch:
 
 permissions:
