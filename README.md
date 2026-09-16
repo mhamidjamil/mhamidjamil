@@ -19,6 +19,7 @@ Every project below has a case study covering **why it exists, what I built and 
 
 | Project | What I built | Explore |
 | :--- | :--- | :--- |
+| **GEMAN** | An online store for earbuds, smart watches and chargers in Pakistan, with cash on delivery, EasyPaisa, JazzCash and bank transfer, and an admin panel that runs products, photos, orders and content. | [Case study](https://portfolio.innovorix.com/about-gemanstore) · [Website](https://www.gemanstore.com) · [Demo store](https://dev.gemanstore.com) |
 | **Wrap Topia** | Restaurant ordering, a live kitchen board, counter sales and rider workflows around one backend. | [Case study](https://portfolio.innovorix.com/about-wraptopia) · [Website](https://wraptopia.innovorix.com) |
 | **Innovorix** | Institute management connecting admissions, attendance, fees, exams and guardian communication. Previously Academia. | [Case study](https://portfolio.innovorix.com/about-innovorix) · [Website](https://innovorix.com) |
 | **Spotwire** | Arrival alerts, visit timelines, linked accounts and workspace attendance. Previously TextGate. | [Case study](https://portfolio.innovorix.com/about-spotwire) · [Google Play](https://play.google.com/store/apps/details?id=com.spotwire.app) · [Source](https://github.com/mhamidjamil/ttgo-sms-app) |
